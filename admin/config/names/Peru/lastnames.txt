@@ -8,7 +8,7 @@ Rodriguez
 Estrada
 Islava
 Uranday
-Munoz
+Muñoz
 Herandez
 Burrieza
 Ortiz
@@ -180,12 +180,9 @@ Ramirez
 Flemate
 Eiriz
 Gerardo
-Juanitas
-Zhili
 Delgado
 Hervas
 Vejarano
-Ussica
 Conejero
 Fanego
 Sanchez
@@ -285,3 +282,5 @@ Escudero
 Torres
 Angeloz
 Escovado
+Huamán
+Condor

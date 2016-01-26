@@ -25,7 +25,7 @@
     <message id="leaguetable_head_goalsdiff_abbr">DG</message>
     <message id="leaguetable_head_score">Puntos</message>
     
-    <message id="leaguetable_button_type">Tipo de Clasificacion</message>
+    <message id="leaguetable_button_type">Tipo de Clasificación</message>
     <message id="leaguetable_button_type_total">Total</message>
     <message id="leaguetable_button_type_home">Clasificación Locales</message>
     <message id="leaguetable_button_type_guest">Clasificación Visitante</message>

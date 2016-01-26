@@ -2,13 +2,13 @@
 <!DOCTYPE messages SYSTEM "../messages.dtd">
 <messages>
     
-    <message id="training_navlabel">Training</message>
-    <message id="training_no_trainers_available">There are no trainers available at the moment.</message>
-    <message id="training_choose_trainer">Choose a Trainer</message>
+    <message id="training_navlabel">Entrenamiento</message>
+    <message id="training_no_trainers_available">No tienes entrenadores en este momento.</message>
+    <message id="training_choose_trainer">Elegir un entrenador</message>
 	
-    <message id="trainer-details_navlabel">Choose Trainer</message>
-    <message id="training_choose_trainer_title">Hire This Trainer</message>
-    <message id="training_choose_trainer_units">Number of Training Units</message>
+    <message id="trainer-details_navlabel">Elegir Entrenador</message>
+    <message id="training_choose_trainer_title">Contratar a este entrenados</message>
+    <message id="training_choose_trainer_units">Numero de unidades de entrenamiento</message>
     
     <message id="training_choose_trainer_err_existing_units">You still have open training units. They must be executed first before you hire a new trainer.</message>
     <message id="training_choose_trainer_err_too_expensive">This trainer is too expensive for you at the moment.</message>

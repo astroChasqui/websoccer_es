@@ -7,8 +7,8 @@
     <message id="training_choose_trainer">Elegir un entrenador</message>
 	
     <message id="trainer-details_navlabel">Elegir Entrenador</message>
-    <message id="training_choose_trainer_title">Contratar a este entrenados</message>
-    <message id="training_choose_trainer_units">Numero de unidades de entrenamiento</message>
+    <message id="training_choose_trainer_title">Contratar a este entrenador</message>
+    <message id="training_choose_trainer_units">Número de unidades de entrenamiento</message>
     
     <message id="training_choose_trainer_err_existing_units">You still have open training units. They must be executed first before you hire a new trainer.</message>
     <message id="training_choose_trainer_err_too_expensive">This trainer is too expensive for you at the moment.</message>
@@ -19,19 +19,19 @@
 	<message id="training_last_execution">Last Training Session</message>
 	
 	<message id="training_trainer_details">Booked Trainer</message>
-	<message id="training_execute_training_title">Train Team Now</message>
-	<message id="training_execute_button">Execute training</message>
+	<message id="training_execute_training_title">Entrenar al Equipo Ahora</message>
+	<message id="training_execute_button">Ejecutar entrenamiento</message>
 	
 	<message id="training_execute_focus">Focus</message>
-    <message id="training_execute_focus_technique">Technique</message>
-    <message id="training_execute_focus_stamina">Stamina</message>
-    <message id="training_execute_focus_motivation">Motivation</message>
-    <message id="training_execute_focus_regeneration">Regeneration</message>
+    <message id="training_execute_focus_technique">Técnica</message>
+    <message id="training_execute_focus_stamina">Aguante</message>
+    <message id="training_execute_focus_motivation">Motivación</message>
+    <message id="training_execute_focus_regeneration">Regeneración</message>
     
-    <message id="training_execute_intensity">Intensity</message>
+    <message id="training_execute_intensity">Intensidad</message>
     <message id="training_execute_training_note">You can execute another training unit every %d hours.</message>
     
-    <message id="training_execute_success">The team got trained.</message>
+    <message id="training_execute_success">El equipo ha entrenado.</message>
     <message id="training_execute_err_already_executed">The training unit has been already executed. Refresh the page and try it again.</message>
     
     <message id="training_execute_err_too_early">The time break after the last training session is too short. The next training unit may be executed: %s</message>

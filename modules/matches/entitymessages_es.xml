@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE messages SYSTEM "../messages.dtd">
+<messages>
+	<message id="entity_match">Partido</message>
+	<message id="entity_match_spieltag">Fecha</message>
+	
+	<message id="entity_match_datum">Fecha</message>
+	<message id="entity_match_home_verein">Local</message>
+	<message id="entity_match_gast_verein">Visita</message>
+	
+	<message id="entity_match_saison_id">Temporada</message>
+	<message id="entity_match_pokalname">Copa</message>
+	<message id="entity_match_pokalrunde">Fase de Copa</message>
+	<message id="entity_match_pokalgruppe">Grupo de Copa</message>
+	<message id="entity_match_berechnet">Simulado</message>
+	
+	<message id="entity_match_spieltyp">Tipo</message>
+	<message id="entity_match_elfmeter">Penales trás empate</message>
+	<message id="entity_match_home_tore">Goles (Local)</message>
+	<message id="entity_match_gast_tore">Goles (Visita)</message>
+	<message id="entity_match_zuschauer">Asistencia</message>
+	<message id="entity_match_bericht">Reporte del Partido</message>
+	<message id="entity_match_bericht_help">Must be specified only when the automatically generated report shall not be displayed.</message>
+	
+	<message id="entity_match_soldout">agotado</message>
+	<message id="entity_match_blocked">Is blocked for simulation. If this option has not been enabled manually, the match is either currently under simulation or an error happened while simulating it. Disable the checkbox only if the match shall be simulated at the next possibility.</message>
+	
+	<message id="option_Ligaspiel">Partido de Liga</message>
+	<message id="option_Pokalspiel">Partido de Copa</message>
+	<message id="option_Freundschaft">Partido Amistoso</message>
+	
+	<message id="entity_matchtext">Match Report Message</message>
+	<message id="entity_matchtext_aktion">Tipo de Acción</message>
+	<message id="entity_matchtext_nachricht">Mensaje</message>
+	<message id="entity_matchtext_nachricht_help">Can be also only a message key. The messages can be translated by adding the translation to a messages configuration file. For an example, see <em>/modules/matches/messages_en.xml</em>.</message>
+	
+	<message id="option_Tor">Gol</message>
+	<message id="option_Auswechslung">Cambio</message>
+	<message id="option_Zweikampf_gewonnen">Tackle: won</message>
+	<message id="option_Zweikampf_verloren">Tackle: lost</message>
+	<message id="option_Pass_daneben">Pass: missed</message>
+	<message id="option_Torschuss_daneben">Unsuccessful shot: above goal</message>
+	<message id="option_Torschuss_auf_Tor">Unsuccessful shot: on goal</message>
+	<message id="option_Karte_gelb">Tarjeta amarilla</message>
+	<message id="option_Karte_rot">Tarjeta roja</message>
+	<message id="option_Karte_gelb_rot">Doble amarilla</message>
+	<message id="option_Verletzung">Lesión</message>
+	<message id="option_Elfmeter_erfolg">Penal: adentro</message>
+	<message id="option_Elfmeter_verschossen">Penal: fallado</message>
+	<message id="option_Taktikaenderung">El Manager cambia de táctica</message>
+	<message id="option_Ecke">Corner</message>
+	<message id="option_Freistoss_daneben">Tiro libre: desviado</message>
+	<message id="option_Freistoss_treffer">Tiro libre: Gol</message>
+	<message id="option_Tor_mit_vorlage">Gol asistido</message>
+	
+	<message id="entity_match_matchreportitems">Reporte del partido</message>
+	
+	<message id="entity_match_stadion_id">Estadio</message>
+	<message id="entity_match_stadion_id_help">If no stadium is selected, the match will take place at the home team's stadium. If any stadium is selected, the home team will neither get ticket sales income, nor any extra benefit.</message>
+</messages>

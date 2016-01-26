@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE module SYSTEM "../messages.dtd">
+<messages>
+    
+    <message id="messages_navlabel">Mensajes</message>
+    
+    <message id="messages_err_messagesdisabled">The administrator disabled sending messages.</message>
+    
+    <message id="messages_tab_inbox">Bandeja de entrada</message>
+    <message id="messages_tab_outbox">Bandeja de salida</message>
+    
+    <message id="messages_empty_inbox">No tienes mensajes.</message>
+    <message id="messages_empty_outbox">No tienes mensajes.</message>
+    
+    <message id="messages_date">Fecha</message>
+    <message id="messages_sender">Enviado por</message>
+    <message id="messages_recipient">Enviado a</message>
+    <message id="messages_subject">Asunto</message>
+    <message id="messages_content">Contenido</message>
+    
+    <message id="messages_delete">Borrar este mensaje</message>
+    <message id="messages_delete_invalidid">Mensaje invalido; probablemente ya ha sido borrado.</message>
+    <message id="messages_delete_success">Mensaje borrado</message>
+    
+    <message id="messages_details_title">Leer mensaje</message>
+    
+    <message id="messages_compose_button">Nuevo mensaje</message>
+    <message id="messages_compose_title">Escribir mensaje</message>
+    
+    <message id="messages_send_err_invalidrecipient">No se encontró ningún usuario con ese nombre.</message>
+    <message id="messages_send_err_sendtoyourself">No puedes enviarte mensajes a tí mismo.</message>
+    <message id="messages_send_err_timebreak">Deben pasar al menor %d minutos antes de que mandes un nuevo mensaje.</message>
+    
+    <message id="messages_reply_button">Responder</message>
+    
+    <message id="messages_send_success">Mensaje enviado</message>
+    <message id="messages_send_button">Enviar</message>
+    
+    <message id="messages_new_messages">Tienes %d mensajes nuevos</message>
+</messages>

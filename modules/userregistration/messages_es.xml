@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE module SYSTEM "../messages.dtd">
+<messages>
+    <message id="register_navlabel">Regístrate</message>
+    <message id="registration_disabled">El registro de usuarios ha sido desactivado por el administrador.</message>
+    <message id="registration_title">Regístrate como nuevo usuario</message>
+    <message id="registration_password_repeat">Repetir password</message>
+    <message id="registration_email_repeat">Repetir E-mail</message>
+    <message id="registration_submit_button">Regístrate</message>
+    
+    <message id="registration_illegal_username">Nombre de usuario no permitido.</message>
+    <message id="registration_repeated_password_notmatching">Las contraseñas no coinciden.</message>
+    <message id="registration_repeated_email_notmatching">Las cuentas de E-mail no coinciden.</message>
+    <message id="registration_user_exists">Nombre de usuario o E-mail en uso.</message>
+    <message id="registration_max_number_users_exceeded">En este momento no es posible registrarse.</message>
+    
+    <message id="register-success_navlabel">Registro sometido</message>
+    <message id="register-success_message_title">Registro sometido - Revise su E-mail.</message>
+    <message id="register-success_message_content">Para verificar el E-mail proporcionado, el sistema te ha enviado un correo con el enlace de activación.</message>
+	<message id="register-success_nextstep">Por favor revisa tu E-mail y sigue las instrucciones enviadas. Es posible que el mensaje tarde unos minutos en llegar.</message>
+    
+	<message id="activation_email_subject">Completando tu Registro de Usuario</message>
+	<message id="activation_email_greeting">Hola,</message>
+	<message id="activation_email_introduction">Por favor visite esta páagina web para completar su registro de usuario:</message>
+	<message id="activation_email_ending">Si usted no se registró en nuestra paágina web y presume algun tipo de abuso, por favor responda a este correo.</message>
+	
+</messages>

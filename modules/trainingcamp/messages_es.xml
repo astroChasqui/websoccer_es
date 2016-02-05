@@ -2,37 +2,37 @@
 <!DOCTYPE module SYSTEM "../messages.dtd">
 <messages>
     
-    <message id="trainingcamp_navlabel">Training Camp</message>
+    <message id="trainingcamp_navlabel">Concentración</message>
     
-    <message id="trainingcamp_nocamps">There are no training camps available at the moment.</message>
+    <message id="trainingcamp_nocamps">No hay concentraciones.</message>
     
-    <message id="trainingcamp_bookedcamp">Booked Training Camp</message>
+    <message id="trainingcamp_bookedcamp">Concentración Reservada</message>
     
-    <message id="trainingcamp_startdate">Arrival</message>
-    <message id="trainingcamp_enddate">Departure</message>
+    <message id="trainingcamp_startdate">Llegada</message>
+    <message id="trainingcamp_enddate">Salida</message>
     
-    <message id="trainingcamp_delete">Cancel Booking</message>
-    <message id="trainingcamp_delete_note">You can cancel thisbooking. However, the costs will not be refunded.</message>
+    <message id="trainingcamp_delete">Cancelar Reserva</message>
+    <message id="trainingcamp_delete_note">Puede cancelar esta reserva, pero no habrá reembolso.</message>
     
-    <message id="trainingcamp_cancel_illegalid">The booking could not be found. Probably it has been deleted already or was in the past.</message>
-    <message id="trainingcamp_cancel_success">The booking has been successfully cancelled.</message>
+    <message id="trainingcamp_cancel_illegalid">No se encontró reserva. Es probable que la haya cancelado.</message>
+    <message id="trainingcamp_cancel_success">Reserva cancelada.</message>
     
-    <message id="camp-details_navlabel">Book Training Camp</message>
+    <message id="camp-details_navlabel">Reservar Concentración</message>
     
-    <message id="camp-detail_form_title">Booking</message>
+    <message id="camp-detail_form_title">Reservas</message>
     
-    <message id="camp-detail_start_date">Arrival Date</message>
-    <message id="camp-detail_days">Days</message>
-    <message id="camp-detail_days_help">Must be between %d and %d.</message>
+    <message id="camp-detail_start_date">Fecha de Llegada</message>
+    <message id="camp-detail_days">Días</message>
+    <message id="camp-detail_days_help">Puede ser entre %d y %d.</message>
     
-    <message id="trainingcamp_booking_err_invaliddays">The stay must be between %d and %d days.</message>
-    <message id="trainingcamp_booking_err_dateinpast">The arrival date must be in the future.</message>
-    <message id="trainingcamp_booking_err_datetoofar">The arrival date must be within the next %d days.</message>
-    <message id="trainingcamp_booking_err_existingbookings">You booked already another training camp. You are allowed to book only one camp at once.</message>
-    <message id="trainingcamp_booking_err_tooexpensive">You cannot afford to pay this training camp at the moment.</message>
-    <message id="trainingcamp_booking_err_matcheswithintimeframe">There are matches with your time within the given time frame.</message>
+    <message id="trainingcamp_booking_err_invaliddays">La estadía debe ser entre %d y %d días.</message>
+    <message id="trainingcamp_booking_err_dateinpast">La fecha de llegada debe estar en el futuro.</message>
+    <message id="trainingcamp_booking_err_datetoofar">La fecha de llegada debe estar dentro de los %d días proximos.</message>
+    <message id="trainingcamp_booking_err_existingbookings">Ya tienes una concentración reservada. Solo se permite una a la vez.</message>
+    <message id="trainingcamp_booking_err_tooexpensive">No tienes fondos para hacer esta reserva.</message>
+    <message id="trainingcamp_booking_err_matcheswithintimeframe">Tienes partidos programados dentro de estas fechas.</message>
     
-    <message id="trainingcamp_booking_costs_subject">Training Camp</message>
+    <message id="trainingcamp_booking_costs_subject">Concentración</message>
     
-    <message id="trainingcamp_booking_success">The training camp has been successfully booked!</message>
+    <message id="trainingcamp_booking_success">Concentración reservada!</message>
 </messages>

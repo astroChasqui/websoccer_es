@@ -2,7 +2,7 @@
 <!DOCTYPE module SYSTEM "../messages.dtd">
 <messages>
     
-    <message id="sponsor_navlabel">Patrocinadorr</message>
+    <message id="sponsor_navlabel">Patrocinador</message>
     <message id="sponsor_contractduraction_info">Elije un patrocinador para los próximos %d partidos.</message>
     <message id="sponsor_no_offers">Ninguna compañía está interesada en patrocinar tu equipo.</message>
     

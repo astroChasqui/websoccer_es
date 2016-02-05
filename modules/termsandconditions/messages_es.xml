@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE module SYSTEM "../messages.dtd">
 <messages>
-    
-    <message id="termsandconditions_navlabel">Términos y Condiciones</message>
-    <message id="termsandconditions_err_notavilable">Los términos y condiciones no están disponibles en tu idioma.</message>
-    
-    <message id="termsandconditions_accept">He leido los <a href="%s" target="_blank">términos y condiciones</a> y los acepto.</message>
-    
+    <message id="termsandconditions_navlabel">Condiciones de Uso</message>
+    <message id="termsandconditions_err_notavilable">Las condiciones de uso no están disponibles en tu idioma.</message>
+    <message id="termsandconditions_accept">Acepto las <a href="%s" target="_blank">condiciones de uso</a>.</message>
 </messages>
